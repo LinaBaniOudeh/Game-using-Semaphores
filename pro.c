@@ -1,8 +1,8 @@
 
 /*
-raghad qadah 1170142
-leena bani odeh 1172351
-shaymaa zaid 1170540
+Raghad Qadah 1170142
+Leena Bani Odeh 1172351
+Shaymaa Zaid 1170540
 
 */
 
